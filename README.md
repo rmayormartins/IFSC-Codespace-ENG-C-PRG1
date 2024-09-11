@@ -1,2 +1,83 @@
-# IFSC-Codespace-C-PRG1
-Repositório para o exemplo em C no GitHub Codespaces.
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black;">
+  <tr>
+    <td style="border: 1px solid black; padding: 5px;">
+      <p style="text-align: center;">Bem vindos ao Repositório</p>
+      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">IFSC-Codespace-ENG-C-PRG1</a></p>
+    </td>
+  </tr>
+</table>
+
+# IFSC-Codespace-ENG-C-PRG1
+
+Bem-vindos ao Repositório [IFSC-Codespace-ENG-C-PRG1](https://rmayormartins.github.io/)
+
+## Sobre o Repositório
+
+Este repositório contém exemplos desenvolvidos em linguagem C como parte da disciplina de Programação I do curso de Engenharia de Telecomuicações no IFSC.
+
+## Configuração do Ambiente de Desenvolvimento
+
+Para começar a trabalhar neste projeto, siga os passos abaixo:
+
+### 1. Fork do Repositório
+
+- Acesse este repositório no GitHub.
+- Clique no botão "Fork" no canto superior direito para criar uma cópia do repositório em sua conta.
+
+### 2. Criação do Codespace
+
+- No seu fork do repositório, clique no botão verde "Code".
+- Selecione a aba "Codespaces".
+- Clique em "Create codespace on main" para criar um novo ambiente de desenvolvimento.
+
+### 3. Configuração do Ambiente C
+
+- O Codespace será iniciado com as configurações C predefinidas.
+- Aguarde a conclusão da configuração automática do ambiente.
+- O ambiente já deve incluir o compilador GCC e outras ferramentas necessárias para desenvolvimento em C.
+
+### 4. Teste do Ambiente
+
+- No explorador de arquivos do Codespace, crie para teste um novo arquivo chamado `hello_world.c`.
+- Copie e cole o seguinte código:
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello World!\n");
+    return 0;
+}
+```
+
+- Para compilar e executar o programa, você tem duas opções:
+- Use o botão "Run" (▶️) no Codespace para compilar e executar diretamente.
+- Ou use os seguintes comandos no terminal:
+
+```bash
+gcc hello_world.c -o hello_world
+./hello_world
+```
+
+## Estrutura do Repositório
+
+- Arquivos fonte (.c) dos projetos e exemplos.
+- Arquivos de cabeçalho (.h), bibliotecas, para os projetos.
+
+## Contribuindo
+
+Sinta-se à vontade para contribuir com este repositório! Você pode:
+
+- Abrir ```issues``` para reportar problemas ou sugerir melhorias.
+- Submeter ```pull requests``` com novos exemplos ou correções.
+- Melhorar a documentação existente.
+- Ou entrar em contato ```ramon.mayor at: ifsc.edu.br```
+
+## Recursos Adicionais
+
+- [Documentação do C](https://devdocs.io/c/)
+- [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
+- [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/)
+
+---
+
