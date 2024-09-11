@@ -11,11 +11,9 @@
 
 Bem-vindos ao Repositório [IFSC-Codespace-ENG-C-PRG1](https://rmayormartins.github.io/)
 
-Repositório para exemplos e projetos em C utilizando o GitHub Codespaces.
-
 ## Sobre o Repositório
 
-Este repositório contém exemplos e projetos desenvolvidos em linguagem C como parte do curso de Engenharia de Telecomuicações no IFSC. Ele é projetado para ser usado com o GitHub Codespaces, proporcionando um ambiente de desenvolvimento consistente e fácil de configurar.
+Este repositório contém exemplos desenvolvidos em linguagem C como parte da disciplina de Programação I do curso de Engenharia de Telecomuicações no IFSC.
 
 ## Configuração do Ambiente de Desenvolvimento
 
@@ -40,14 +38,14 @@ Para começar a trabalhar neste projeto, siga os passos abaixo:
 
 ### 4. Teste do Ambiente
 
-- No explorador de arquivos do Codespace, crie um novo arquivo chamado `hello_world.c`.
+- No explorador de arquivos do Codespace, crie para teste um novo arquivo chamado `hello_world.c`.
 - Copie e cole o seguinte código:
 
 ```c
 #include <stdio.h>
 
 int main() {
-    printf("Hello, GitHub Codespaces!\n");
+    printf("Hello World!\n");
     return 0;
 }
 ```
@@ -63,17 +61,17 @@ gcc hello_world.c -o hello_world
 
 ## Estrutura do Repositório
 
-- `/src`: Contém os arquivos fonte (.c) dos projetos e exemplos.
-- `/include`: Arquivos de cabeçalho (.h) para os projetos.
-- `/docs`: Documentação adicional e recursos.
+- Arquivos fonte (.c) dos projetos e exemplos.
+- Arquivos de cabeçalho (.h), bibliotecas, para os projetos.
 
 ## Contribuindo
 
 Sinta-se à vontade para contribuir com este repositório! Você pode:
 
-- Abrir issues para reportar problemas ou sugerir melhorias.
-- Submeter pull requests com novos exemplos ou correções.
+- Abrir ```issues``` para reportar problemas ou sugerir melhorias.
+- Submeter ```pull requests``` com novos exemplos ou correções.
 - Melhorar a documentação existente.
+- Ou entrar em contato ```ramon.mayor at: ifsc.edu.br```
 
 ## Recursos Adicionais
 
