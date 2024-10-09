@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Olá, GitHub Codespaces!\n");
+    printf("Teste\n");
     return 0;
 }
+
+
