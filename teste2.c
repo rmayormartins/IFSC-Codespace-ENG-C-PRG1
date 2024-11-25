@@ -6,7 +6,7 @@ int main()
 
     printf("Entre com o Valor1:\n");
     scanf("%f", &valor1);
-    printf("Valor eh %.2f\n", valor1);
+    printf("Valor eh %.5f\n", valor1);
 
     return 0;
 }
