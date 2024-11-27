@@ -1,37 +1,19 @@
+// CÓDIGO 4.1 GOTO
 #include <stdio.h>
 
 int main() {
-    char operacao;
-    float num1, num2;
 
-    printf("Digite a operação (+, -, *, /): ");
-    scanf(" %c", &operacao);
-
-    printf("Digite o primeiro número: ");
-    scanf("%f", &num1);
-
-    printf("Digite o segundo número: ");
-    scanf("%f", &num2);
-
-    switch(operacao) {
-        case '+':
-            printf("Resultado: %f\n", num1 + num2);
-            break;
-        case '-':
-            printf("Resultado: %f\n", num1 - num2);
-            break;
-        case '*':
-            printf("Resultado: %f\n", num1 * num2);
-            break;
-        case '/':
-            if (num2 != 0)
-                printf("Resultado: %f\n", num1 / num2);
-            else
-                printf("Erro: Divisão por zero!\n");
-            break;
-        default:
-            printf("Operação inválida!\n");
-    }
-
+    printf("Entre com um numero menor do que 10 pra repetir e maior do 10 pra encerrar: ");
+    denovo: // rótulo para o goto
+    float x;
+    scanf("%f", &x);
+    
+    if (x < 10)
+    
+        goto denovo; // volta para o rótulo 'denovo'
+    
+    printf("%.2f\n", x);
+    
     return 0;
 }
+
