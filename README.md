@@ -59,6 +59,12 @@ gcc hello_world.c -o hello_world
 ./hello_world
 ```
 
+- Para compilar e linkar uma biblioteca, como a math.h
+```bash
+gcc hello_world.c -o hello_world -lm
+./hello_world
+```
+
 ## Estrutura do Repositório
 
 - Arquivos fonte (.c) dos projetos e exemplos.
