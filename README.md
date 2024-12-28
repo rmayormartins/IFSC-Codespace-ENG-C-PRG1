@@ -15,6 +15,11 @@ Bem-vindos ao Repositório [IFSC-Codespace-ENG-C-PRG1](https://rmayormartins.git
 
 Este repositório contém exemplos desenvolvidos em linguagem C como parte da disciplina de Programação I do curso de Engenharia de Telecomuicações no IFSC.
 
+## Tech Stack
+
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
 ## Configuração do Ambiente de Desenvolvimento
 
 Para começar a trabalhar neste projeto, siga os passos abaixo:
