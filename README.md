@@ -87,6 +87,7 @@ Sinta-se à vontade para contribuir com este repositório! Você pode:
 ## Recursos Adicionais
 
 - [Documentação do C](https://devdocs.io/c/)
+- [Documentação IBM z/OS XL C/C++](https://www.ibm.com/docs/en/zos/3.1.0?topic=zos-xl-cc)
 - [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
 - [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/)
 
