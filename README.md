@@ -89,6 +89,15 @@ gcc hello_world.c -o hello_world -lm
 
 ---
 
+#### Cheat sheet de git no terminal
+
+- ```git add .``` ou ```git add file.c```
+- ```git status```
+- ```git commit -m "add versao x"```
+- ```git push -u origin main```
+
+---
+
 #### Contribuindo
 
 Sinta-se à vontade para contribuir com este repositório! Você pode:
