@@ -113,6 +113,8 @@ Sinta-se à vontade para contribuir com este repositório! Você pode:
 #### Recursos Adicionais
 
 - [Documentação do C](https://devdocs.io/c/)
+- [Cpp Reference](https://en.cppreference.com/w/c)
+- [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C18)](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf)
 - [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
 - [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/)
 
