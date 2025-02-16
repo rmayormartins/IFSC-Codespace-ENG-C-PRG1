@@ -116,6 +116,7 @@ Sinta-se à vontade para contribuir com este repositório! Você pode:
 - [Cpp Reference](https://en.cppreference.com/w/c)
 - [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C18)](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf)
 - [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
+- [C Reference Card - Universidade Texas](https://users.ece.utexas.edu/~adnan/c-refcard.pdf)
 - [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
 - [IFSC - Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/)
 
